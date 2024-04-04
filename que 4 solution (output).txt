@@ -1,0 +1,7 @@
+java -cp /tmp/nXaUaqnPdP/DuplicateCharacters
+Duplicate characters in a given string: 
+r
+e
+t
+u
+s
